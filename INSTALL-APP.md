@@ -8,7 +8,7 @@ When opening you should see a login page. Username and password can be set durin
 ![Screenshot01](assets/install-screen-01.png)
 
 #### Start Scripting
-After you logged in you see the normal Rstudio environment
+After you logged in you see the normal RStudio environment
 ![Screenshot02](assets/install-screen-02.png)
 
 
