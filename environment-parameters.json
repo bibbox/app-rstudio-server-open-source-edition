@@ -1,0 +1,22 @@
+[
+    {
+        "id":"USER",
+        "display_name":"Username",
+        "type":"text",
+        "default_value":"rstudio",
+        "description":"Username for the first rstudio user",
+        "min_length": "1",
+        "max_length": "128"
+     },
+     {
+        "id":"PASSWORD",
+        "display_name":"Password",
+        "type":"password",
+        "default_value":"rstudio",
+        "description":"Password for the first rstudio user",
+        "min_length": "1",
+        "max_length": "128"
+     }
+]
+
+

@@ -1,0 +1,11 @@
+{
+	"name": "RStudioServerv2022.02.0-443",
+	"short_name": "RStudio",
+	"version": "2022.02.0-443",
+	"description": "RStudio Server.",
+	"short_description": "RStudio is an integrated development environment (IDE) for R.",
+	"catalogue_url": "",
+	"application_url": "https://www.rstudio.com/",
+	"tags": ["Data Analysis"],
+	"application_documentation_url": "https://support.rstudio.com/hc/en-us/articles/200552306-Getting-Started"
+}
