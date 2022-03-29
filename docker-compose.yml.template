@@ -1,0 +1,27 @@
+version: "3"
+
+
+networks:
+    bibbox-default-network:
+      external: true
+
+services:
+  §§INSTANCE-rstudio:
+    image: bibbox/rstudio-server-open-source-edition:2022.02.0-443
+    container_name: §§INSTANCE-rstudio
+    ports:
+      - 8787:8787
+    networks:
+    - bibbox-default-network
+    volumes:
+      - ./data:/home
+    environment:
+    - USER=§§USER
+    - PASSWORD=§§PASSWORD
+    proxy:
+     TYPE: PRIMARY
+     URLPREFIX: §§INSTANCE
+     TEMPLATE: default
+     DISPLAYNAME: 'RStudio'  
+
+

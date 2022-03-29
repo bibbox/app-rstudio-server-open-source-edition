@@ -1,0 +1,21 @@
+version: "3"
+
+
+networks:
+    bibbox-default-network:
+      external: true
+
+services:
+  bibbox-rstudio:
+    image: bibbox/rstudio-server-open-source-edition:2022.02.0-443
+    container_name: bibbox-rstudio
+    ports:
+      - 8787:8787
+    networks:
+    - bibbox-default-network
+    volumes:
+      - ./data:/home
+    environment:
+    - USER=rstudio
+    - PASSWORD=rstudio
+
