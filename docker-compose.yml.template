@@ -7,7 +7,7 @@ networks:
 
 services:
   §§INSTANCE-rstudio:
-    image: bibbox/rstudio-server-open-source-edition:2022.02.0-443
+    image: bibbox/rstudio-server-open-source-edition:2022.07.2-576
     container_name: §§INSTANCE-rstudio
     ports:
       - 8787:8787
