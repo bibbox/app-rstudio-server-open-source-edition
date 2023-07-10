@@ -5,7 +5,7 @@
 	"description": "RStudio Server.",
 	"short_description": "RStudio is an integrated development environment (IDE) for R.",
 	"catalogue_url": "",
-	"application_url": "https://www.rstudio.com/",
+	"application_url": "https://posit.co/products/open-source/rstudio-server/",
 	"tags": ["Data Analysis"],
 	"application_documentation_url": "https://support.rstudio.com/hc/en-us/articles/200552306-Getting-Started"
 }
