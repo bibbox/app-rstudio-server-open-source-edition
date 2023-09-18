@@ -20,7 +20,7 @@ The default values for the standalone installation are:
 
 
 ## Docker Images Used
- * [bibbox/rstudio-server-open-source-edition](https://hub.docker.com/repository/docker/bibbox/rstudio-server-open-source-edition/)
+ * [bibbox/rstudio-server-open-source-edition](https://hub.docker.com/r/bibbox/rstudio-server-open-source-edition)
  
 ## Standalone Installation
 
