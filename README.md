@@ -40,6 +40,6 @@ The default values for the standalone installation are:
 
   
 ## Mounted Volumes
-### bibbox/rstudio-server-open-source-edition Conatiner
+### bibbox/rstudio-server-open-source-edition Container
   - *./data:/home*
 
