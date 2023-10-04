@@ -1,7 +1,7 @@
 {
-	"name": "RStudioServerv2022.02.0-443",
+	"name": "RStudioServer",
 	"short_name": "RStudio",
-	"version": "2022.02.0-443",
+	"version": "4.3",
 	"description": "RStudio Server.",
 	"short_description": "RStudio is an integrated development environment (IDE) for R.",
 	"catalogue_url": "",
