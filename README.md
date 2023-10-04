@@ -8,6 +8,8 @@ After the docker installation follow these [instructions](INSTALL-APP.md).
 
 Clone the github repository. If necessary change the ports in the environment file `.env` and the volume mounts in `docker-compose.yml`.
 
+ * USER = rstudio
+ * PASSWORD = rstudio
 ```
 git clone https://github.com/bibbox/app-rstudio-server-open-source-edition
 cd app-rstudio-server-open-source-edition
