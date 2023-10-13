@@ -1,7 +1,7 @@
 {
 	"name": "RStudioServer",
 	"short_name": "RStudio",
-	"version": "4.3",
+	"version": "v4.3",
 	"description": "RStudio Server.",
 	"short_description": "RStudio is an integrated development environment (IDE) for R.",
 	"catalogue_url": "",
