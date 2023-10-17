@@ -8,5 +8,5 @@
 	"application_url": "https://posit.co/products/open-source/rstudio-server/",
 	"tags": ["Data Analysis"],
 	"application_documentation_url": "https://support.rstudio.com/hc/en-us/articles/200552306-Getting-Started",
-	"instance_information": "work in progress"
+	"instance_information": "<p>RStudio Server is a web-based IDE for the R programming language, enabling remote access and collaboration.</p>"
 }
